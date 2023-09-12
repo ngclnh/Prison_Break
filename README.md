@@ -4,9 +4,5 @@ In this project, we will analyze the data from https://en.wikipedia.org/wiki/Lis
 'In which year did the most helicopter prison break attempts occur?'
 
 
-What I have learnt from this project:
-- Obtain real data from the internet
-- Analyze the data in **Python**
-- Use **Jupyter Notebook**
 
 
